@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    text-align: center;
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 69%, rgba(200,132,37,1) 100%);
+}
+#imagen{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+#imagen:hover{
+    transform: scale(1.1);
+    transition: 1s all ease;
+}
+h1{
+    color: white;
+    font-size: 50px;
+    text-shadow: 5px, 5px,5px yellow;
+    margin: 20px;
+}
+h2{
+    color: green;
+    font-size: 50px;
+    text-shadow: 5px, 5px,5px black;
+    margin: 10px;
+}
+a{
+    width: 150px;
+    height: 40px;
+    padding: 20px;
+    margin: 10px auto;
+    font-size: 20px;
+    text-decoration: none;
+    display: block;
+    background: black;
+    color: white;
+    border: 2px solid white;
+    box-shadow:  2px 0px 10px rebeccapurple;
+}
+a:hover{
+    background: red;
+    color: yellow;
+    transform: scale(1.2);
+    transition: 2s all ease;
+}
+a:active{
+    transform: scale(1.0);
+    background: blue;
+    color: white;
+    transition: 1s all ease;
+
+}
