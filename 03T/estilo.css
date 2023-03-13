@@ -1,0 +1,68 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+
+}
+h1{
+    font-family: 'Climate Crisis' cursive;
+}
+
+.pato{
+    font-family: 'Roboto Mono', monospace;
+}
+
+.Saco{
+    font-family: 'Smokum', cursive;
+}
+
+.Corazon{
+    font-family: 'Tilt Prism', cursive;
+}
+
+.Bunbury{
+    font-family: 'Dancing Script', cursive;
+}
+@font-face {
+    font-family: 'Climate Crisis', cursive;
+    src: local(cursive),
+     url('Fonts/ClimateCrisis-Regular.ttf') format(truetype);
+}
+.izq{
+    text-align: left;
+}
+.der{
+    text-align: right;
+}
+.cen{
+    text-align: center;
+}
+.jus{
+    text-align: justify;
+}
+.Tema{
+    font-family: 'Lobster', cursive;
+}
+.Separado1{
+    line-height: 0.5;
+    font-size: 1em;
+}
+.Separado2{
+    line-height: 3.2;
+    font-size: 1em;
+}
+.H{
+    font-family: 'Source Code Pro', monospace;
+}
+.rig{
+    text-align: left;
+}
+.libre{
+    font-family: 'Dancing Script', cursive;
+    font-size: 72px;
+    background: linear-gradient(to bottom right, red, yellow,);
+    
+}
