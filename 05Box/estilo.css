@@ -1,0 +1,81 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(66,121,9,1) 0%, rgba(6,204,232,1) 0%, rgba(0,212,255,1) 100%);
+color: cyan
+}
+div{
+    width: 200px;
+    height: 200px;
+    background: brown;
+    padding: 70px;
+    margin: 10px;
+    display: inline-block;
+    border: 2px solid  yellow;
+    text-align: center;
+}
+.W{
+    color: white;
+}
+.C19{
+    margin: 10px 100px 20px 20px;
+    background: red;
+border: 10px groove blueviolet;
+}
+.C3{
+    box-shadow: 0px 0px 21px red;
+    border-radius: 50% 50%;
+}
+.C1{
+    margin: 20px 60px 30px 70px;
+    background: rgb(159,44,61);;
+border: 20px double  brown ;
+color: rgb(58,80,194);
+}
+.C2{
+    margin: 20px 60px 30px 70px;
+    background: rgb(98, 29, 195);
+border: 10px inset  rgb(251, 216, 216) ;
+color: rgb(209, 40, 40);
+}
+.C4{
+    margin: 20px 60px 30px 70px;
+    background: rgb(46, 163, 91);
+border: 10px ridge  rgb(40, 16, 215) ;
+color: rgb(19, 12, 6);
+}
+.C5{
+    margin: 20px 60px 30px 70px;
+    background: rgb(46, 125, 159);
+border: 10px dashed  rgb(26, 86, 38) ;
+color: rgb(18, 40, 180);
+}
+.C6{
+    margin: 20px 60px 30px 70px;
+    background: yellowgreen;
+border: 10px double  brown ;
+color: rgb(58,80,194);
+}
+.C7{
+    margin: 20px 60px 30px 70px;
+    background: yellowgreen;
+border: 10px double  brown ;
+color: rgb(58,80,194);
+}
+.C8{
+    margin: 20px 60px 30px 70px;
+    background: yellowgreen;
+border: 10px double  brown ;
+color: rgb(58,80,194);
+}
+.C9{
+    margin: 20px 60px 30px 70px;
+    background: yellowgreen;
+border: 10px double  brown ;
+color: rgb(58,80,194);
+}
