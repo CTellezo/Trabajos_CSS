@@ -40,13 +40,13 @@ color: rgb(58,80,194);
 .C2{
     margin: 20px 60px 30px 70px;
     background: rgb(98, 29, 195);
-border: 10px inset  rgb(251, 216, 216) ;
-color: rgb(209, 40, 40);
+border: 10px inset  rgb(190, 10, 10) ;
+color: rgb(67, 13, 110);
 }
 .C4{
     margin: 20px 60px 30px 70px;
-    background: rgb(46, 163, 91);
-border: 10px ridge  rgb(40, 16, 215) ;
+    background: rgb(119, 6, 91);
+border: 10px ridge  rgb(83, 129, 9) ;
 color: rgb(19, 12, 6);
 }
 .C5{
@@ -57,25 +57,29 @@ color: rgb(18, 40, 180);
 }
 .C6{
     margin: 20px 60px 30px 70px;
-    background: yellowgreen;
-border: 10px double  brown ;
+    background: rgb(79, 27, 146);
+border: 10px outset  rgb(122, 223, 184) ;
 color: rgb(58,80,194);
 }
 .C7{
-    margin: 20px 60px 30px 70px;
-    background: yellowgreen;
-border: 10px double  brown ;
-color: rgb(58,80,194);
+    margin: 30px 60px 90px 70px;
+    background: rgb(126, 4, 4);
+border: 10px double  rgb(7, 4, 41) ;
+color: rgb(1, 1, 2);
 }
 .C8{
-    margin: 20px 60px 30px 70px;
-    background: yellowgreen;
-border: 10px double  brown ;
-color: rgb(58,80,194);
+    margin: 10px 60px 30px 50px;
+    background: rgb(131, 221, 209);
+border: 10px groove  rgb(39, 2, 141) ;
+color: rgb(4, 5, 7);
+box-shadow: 10px 10px 21px red;
+    border-radius: 90% 10%;
 }
 .C9{
     margin: 20px 60px 30px 70px;
-    background: yellowgreen;
-border: 10px double  brown ;
-color: rgb(58,80,194);
+    background: rgb(238, 111, 7);
+border: 10px inset  brown ;
+color: rgb(144, 201, 13);
+box-shadow: 0px 0px 21px red;
+    border-radius: 30% 70%;
 }
