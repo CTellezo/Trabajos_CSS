@@ -239,3 +239,32 @@ border: dashed;
   transform: rotate(0deg);
   box-shadow: 0 0 30px red;
 }
+.arbol {
+
+  width: 35px;
+
+  height: 85px;
+
+  background: maroon;
+
+  position: absolute;
+  bottom: 30px;
+
+  right: 90px;
+
+}
+
+.Hoja {
+
+  width: 70px;
+
+  height: 100px;
+
+  background: green;
+
+  position: absolute;
+  top: 325px;
+
+  right: 75px;
+  border-radius: 50% 50%;
+}
