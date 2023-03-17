@@ -1,0 +1,241 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+
+  text-align: center;
+
+  padding-top: 40px;
+
+}
+
+.Fondo {
+
+  position: relative;
+
+  width: 800px;
+  height: 500px;
+border: black inset 5px;
+  background: blue;
+  margin: auto;
+
+}
+
+.solesito {
+
+  width: 150px;
+
+  height: 150px;
+
+  background: yellow;
+
+  position: absolute;
+
+  top: 50px;
+  left: 580px;
+
+  border-radius: 100%;
+
+  box-shadow: 0 0 100px orange;
+
+}
+
+.suelo {
+  width: 791px;
+  height: 30px;
+  background: green;
+  position: absolute;
+  bottom: 0px;
+}
+
+.casita {
+
+  width: 400px;
+  height: 250px;
+
+  background: cornsilk;
+
+  position: absolute;
+  bottom: 30px;
+border: dashed;
+
+  left: 100px;
+
+  box-shadow: 0 0 30px black;
+}
+
+.teja {
+
+  width: 450px;
+
+  height: 30px;
+
+  background: darkorange;
+
+  position: absolute;
+  bottom: 280px;
+
+  left: 75px;
+
+}
+
+.chelo {
+
+  width: 50px;
+  height: 85px;
+
+  background: maroon;
+
+  position: absolute;
+  bottom: 310px;
+
+  left: 380px;
+
+}
+.chelo2 {
+
+  width: 85px;
+  height: 30px;
+
+  background: maroon;
+
+  position: absolute;
+  
+  bottom: 390px;
+  left: 360px;
+
+}
+.ven1{
+  width: 50px;
+  height: 50px;
+
+  background: cyan;
+
+  position: relative;
+  border: solid black;
+  top: 300px;
+  left: 360px;
+}
+.ven2{
+  width: 50px;
+  height: 50px;
+
+  background: cyan;
+
+  position: relative;
+  border: solid black;
+  top: 300px;
+  left: 360px;
+}
+.ven3{
+  width: 50px;
+  height: 50px;
+
+  background: cyan;
+
+  position: relative;
+  border: solid black;
+  top: 200px;
+  left: 410px;
+}
+.ven4{
+  width: 50px;
+  height: 50px;
+
+  background: cyan;
+
+  position: relative;
+  border: solid black;
+  top: 200px;
+  left: 410px;
+}
+.puerta{
+  width: 100px;
+  height: 150px;
+
+  background: cornflowerblue;
+
+  position: relative;
+  border: solid black;
+  top: 110px;
+  left: 150px;
+}
+.perilla{
+  width: 10px;
+
+  height: 10px;
+
+  background: black;
+
+  position: relative;
+
+  top: 50px;
+  left: 230px;
+
+  border-radius: 100%;
+
+  box-shadow: 0 0 30px orange;
+}
+.L1{
+  width:45px;
+  height: 10px;
+  background: orange;
+  position: relative ;
+  bottom: 305px ;
+  left:527px;
+  transform: rotate(30deg);
+  box-shadow: 0 0 30px red;
+}
+.L5{
+  width:45px;
+  height: 10px;
+  background: orange;
+  position:absolute ;
+  bottom: 300px ;
+  left:530px;
+  transform: rotate(-30deg);
+  box-shadow: 0 0 30px red;
+}
+.L2{
+  width:45px;
+  height: 10px;
+  background: orange;
+  position:absolute ;
+  top:180px ;
+  left:740px;
+  transform: rotate(30deg);
+  box-shadow: 0 0 30px red;
+}
+.L6{
+  width:45px;
+  height: 10px;
+  background: orange;
+  position:absolute ;
+  top:50px ;
+  left:735px;
+  transform: rotate(-30deg);
+  box-shadow: 0 0 30px red;
+}
+.L3{
+  width:10px;
+  height: 45px;
+  background: orange;
+  position:absolute ;
+  top:220px ;
+  left:650px;
+  transform: rotate(0deg);
+  box-shadow: 0 0 30px red;
+}
+.L4{
+  width:10px;
+  height: 45px;
+  background: orange;
+  position:absolute ;
+  top:3px ;
+  left:650px;
+  transform: rotate(0deg);
+  box-shadow: 0 0 30px red;
+}
