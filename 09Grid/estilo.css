@@ -59,3 +59,45 @@ body{
     grid-row: 3;
     background: tomato;
 }
+.Mano{
+    width: 400px;
+    height: 320px;
+    display: block;
+    background: rgb(84, 68, 46);
+    margin: 20px auto;
+    border:7px groove black;
+    display: grid;
+    grid-template-columns: repeat(2,1fr) ;
+    grid-gap: 10px;
+    grid-template-rows: 100px 20px 100px 40px;
+}
+.I{
+    grid-column: 1/3;
+    grid-row: 1;
+    background: rgb(18, 150, 79);
+}
+.II{
+    grid-column:3/1;
+    grid-row: 2;
+    background: rgb(26, 55, 188);
+}
+.III{
+    grid-column:2;
+    grid-row: 3;
+    background: rgb(54, 22, 125);
+}
+.IV{
+    grid-column:1;
+    grid-row: 3;
+    background: rgb(15, 98, 123);
+}
+.V{
+    grid-column:2/4;
+    grid-row: 3;
+    background: tomato;
+}
+.VI{
+    grid-column:1/3;
+    grid-row: 4;
+    background: rgb(61, 145, 168);
+}
