@@ -1,0 +1,59 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+div{
+  width: 100px;
+  height: 100px;
+  background: red;
+  color: yellow;
+  display: inline-block;
+  margin: 10px;
+  border: 2px dashed yellow;
+  text-align: center;
+  padding: 10px;
+  font-size: 40px;
+  } 
+
+.C2{
+  position: absolute;
+left: 0px;
+bottom: 0px;
+background: blueviolet;
+
+}
+.C3{
+  position: absolute;
+bottom: 0px;
+right: 0px;
+background: purple;
+
+}
+.C4 {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  background: green;
+
+}
+.C5 {
+  position: relative ;
+  top: 50px;
+  right: 50px;
+  background: yellow;
+
+}
+.C6{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  background: pink;
+}
+.C7{
+  position: fixed;
+  top: 52%;
+  left: 52%;
+  background: rgba(0, 0, 255, 0.5);
+  z-index: 3;
+}
